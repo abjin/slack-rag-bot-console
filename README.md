@@ -1,3 +1,6 @@
+> [https://slack-rag-bot-console.vercel.app/dashboard 에 접속하여 바로 사용해보실 수 있습니다.](https://slack-rag-bot-console.vercel.app/dashboard 에 접속하여 바로 사용하실 수 있습니다.)
+
+
 # Slack Knowledge Bot Console
 
 Notion과 GitHub 데이터를 기반으로 한 개인화된 RAG 검색을 Slack을 통해 사용할 수 있는 서비스의 대시보드입니다.
