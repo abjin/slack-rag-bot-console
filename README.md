@@ -1,4 +1,4 @@
-> https://slack-rag-bot-console.vercel.app/dashboard 에 접속하여 바로 사용해보실 수 있습니다.
+> https://slack-rag-bot-console.vercel.app 에 접속하여 바로 사용해보실 수 있습니다.
 
 
 # Slack Knowledge Bot Console
