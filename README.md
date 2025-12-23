@@ -125,36 +125,9 @@ src/
 - NextAuth.js를 통한 안전한 세션 관리
 - CORS 및 CSRF 보호 적용
 
-## 🤝 기여하기
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다.
-
 ## 🔗 관련 링크
 
 - [Notion API Documentation](https://developers.notion.com/)
 - [GitHub REST API](https://docs.github.com/en/rest)
 - [Slack API Documentation](https://api.slack.com/)
 - [Next.js Documentation](https://nextjs.org/docs)
-
-## ❓ 문제 해결
-
-### 일반적인 문제들
-
-**Q: 데이터베이스 연결 오류가 발생합니다**
-A: `.env` 파일의 `DATABASE_URL`이 올바른지 확인하고 `npx prisma db push`를 다시 실행해보세요.
-
-**Q: Notion API 키가 작동하지 않습니다**
-A: Notion Integration이 올바르게 생성되었고, 연동할 페이지/데이터베이스에 Integration이 추가되었는지 확인하세요.
-
-**Q: GitHub App 설치 오류가 발생합니다**
-A: GitHub App이 올바르게 생성되었고, 환경변수가 정확히 설정되었는지 확인하세요. Private Key에는 개행 문자(\n)가 포함되어야 합니다.
-
-더 많은 도움이 필요하시면 이슈를 생성해 주세요.
