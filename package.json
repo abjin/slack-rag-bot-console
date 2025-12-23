@@ -15,7 +15,7 @@
     "@slack/web-api": "^7.9.2",
     "bcryptjs": "^3.0.2",
     "jsonwebtoken": "^9.0.2",
-    "next": "15.3.3",
+    "next": "15.3.8",
     "next-auth": "^4.24.11",
     "prisma": "^6.9.0",
     "react": "^19.0.0",
